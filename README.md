@@ -63,6 +63,10 @@
 ### 4.3 文档目录
 
 ![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081341845.jpg)
+### 获取方式&视频演示
 
+下方扫一下，回复关键词：进存销
+
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
 
 
